@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    /* background-color: red; */
+    text-align: center;
+    height: 100vh;
+}
+
+.container h1 {
+    font-size: 80px
+}
+
+.calc {
+    background-color: #0011ff;
+    width: 36%;
+    border-radius: 27px;
+    margin: auto;
+    padding: 36px 31px;
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    padding: 5px;
+    font-size: 40px;
+    margin: 6px 2px;
+}
+
+.btn {
+    padding: 5px;
+    font-size: 40px;
+    background: grey;
+    margin: 2px 2px;
+    width: 87px;
+    border: 2px solid black;
+    border-radius: 14px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: red;
+}
